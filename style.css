@@ -1,0 +1,103 @@
+
+header {
+    font-family: arial;
+    font-size: 18px;
+    width: 960px;
+    height: 100px;
+    color: #777;
+    background: #ebebeb;
+    line-height: 100px
+
+}
+
+
+body {
+    background: #777;
+    font-family: HelveticaNeue;
+    color: #777;
+    width: 960px;
+    font-size 18px;
+    margin: auto;
+
+}
+
+Nav {
+    width: 960px;
+    height: 100px;
+    background: #ebebeb;
+    color: #777;
+    line-height: 100px;
+    margin-bottom: 20px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+.column {
+    float: right;
+    width: 50%;
+}
+
+
+Article {
+    color: #ebebeb;
+    width: 475px;
+    background: #777;
+    height: 250px;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+
+}
+
+article p{
+    text-align: center;
+    color: #777;
+    background: #ebebeb;
+    height: 60px;
+    line-height: 60px
+}
+
+article h3 {
+    color: #777;
+    background: #ebebeb;
+    height: 60px;
+    line-height: 60px
+}
+
+
+Section {
+    color: #777;
+    width: 495px;
+    height: 350px;
+    background: #ebebeb;
+    margin-right: 20px;
+    Float: left;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+
+
+}
+
+Aside {
+    font-color: #777;
+    width: 445px;
+    height: 350px;
+    background: #ebebeb;
+    float: left;
+    margin-bottom: 20px;
+    
+}
+footer {
+    color: #777;
+    width: 960px;
+    background: #ebebeb;
+    clear: both;
+    line-height: 100px;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+
+
+}
